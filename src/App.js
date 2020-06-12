@@ -10,7 +10,6 @@ function App() {
         <p>
         Hello World from Asad.
         </p>
-      
     </div>
   );
 }
